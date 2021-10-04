@@ -1,0 +1,4 @@
+name: canopen-stack
+build:
+  cmake-ext: True
+  kconfig-ext: True
